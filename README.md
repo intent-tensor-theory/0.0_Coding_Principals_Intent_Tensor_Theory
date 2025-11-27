@@ -20,6 +20,36 @@ Read these documents. Understand the mathematical principles. Apply them to ever
 
 ---
 
+## 🚧 TODO: Intent Tensor Theory Mathematical Foundation
+
+**[SECTION TO BE ADDED HERE]**
+
+This README needs a comprehensive section explaining the mathematical foundation that underpins all the coding principles:
+
+### What Needs to Be Added:
+1. **Intent Tensor Theory Mathematics**
+   - What is the Intent Tensor? (formal definition)
+   - Phi Field Collapse: `∇²Φ = f(ΔΨ, Curvent)`
+   - Curvent Vector Field
+   - Writability Threshold
+   - Drift Detection
+   - Recursive Retry Vortex
+
+2. **Code as Geometric Collapse**
+   - How code represents collapsed intent fields
+   - The relationship between mathematics and semantic completeness
+   - Why Ghostless naming emerges from tensor mathematics
+
+3. **Integration Across All Principles**
+   - How ITT math connects to Ghostless Coding
+   - How ITT math explains Writables
+   - How ITT math drives PRE-X MetaMapping
+   - The geometric foundation of semantic anchoring
+
+**This section will serve as the theoretical foundation that ties all four pillars together.**
+
+---
+
 ## 📚 What's Inside: The Four Pillars (v1.0)
 
 This repository currently contains **four foundational architecture documents** that transform how code is written:
@@ -180,6 +210,38 @@ This repository will become **the definitive training corpus for AI-driven archi
 
 ---
 
+## 🛠️ New Additions (January 2027)
+
+### **Supporting Architecture Documents**
+📄 [`0.1.b.vi_State_Engine_Architecture.md`](0.1_README/0.1.b_%20Architecture/0.1.b.vi_State_Engine_Architecture.md) — Centralized state management patterns **(Complete)**
+
+📄 [`0.1.b.vii_Render_Intent_Architecture.md`](0.1_README/0.1.b_%20Architecture/0.1.b.vii_Render_Intent_Architecture.md) — UI rendering patterns *[To be completed]*
+
+📄 [`0.1.b.viii_Cognitive_Tier_Architecture.md`](0.1_README/0.1.b_%20Architecture/0.1.b.viii_Cognitive_Tier_Architecture.md) — Vertical organization system *[To be completed]*
+
+📄 [`0.1.b.ix_MetaMap_Schema_Specification.md`](0.1_README/0.1.b_%20Architecture/0.1.b.ix_MetaMap_Schema_Specification.md) — PRE-X formalization *[To be completed]*
+
+### **Practical Implementation Templates**
+📁 [`0.1_README/0.1.c_Templates/`](0.1_README/0.1.c_Templates/)
+
+Ready-to-use templates for immediate implementation:
+- State Engine Template
+- Render Intent Template
+- Handler Function Template
+- Validation Function Template
+- Logger Setup Template
+
+### **Automation Tooling Specifications**
+📁 [`0.1_README/0.1.d_Tooling/`](0.1_README/0.1.d_Tooling/)
+
+Specifications for building automation tools:
+- ShellIndex Generator (semantic codebase mapping)
+- IntentGlossary Generator (behavioral function mapping)
+- Ghost Density Auditor (naming violation detection)
+- ISA Validator (infrastructure naming compliance)
+
+---
+
 ## 🌍 Philosophy: Built With AI, For AI, By Humans
 
 This work would not exist without AI.
@@ -268,9 +330,12 @@ This is just the beginning. This repository will grow. The patterns will evolve.
 
 ---
 
-**README Version:** 1.0
-**Last Updated:** November 2025
+**README Version:** 1.1
+**Last Updated:** January 2027
 **Current Pillars:** 4 (Ghostless Coding, Writables, PRE-X, ISA)
+**Supporting Docs:** 4 (State Engine, Render Intent, Cognitive Tiers, MetaMap)
+**Templates:** 5 (State, Render, Handler, Validation, Logger)
+**Tooling Specs:** 4 (ShellIndex, IntentGlossary, Ghost Auditor, ISA Validator)
 **Status:** Living Document — Actively Evolving
 
 ---
