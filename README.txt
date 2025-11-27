@@ -35,6 +35,7 @@ I do not charge for these works. I hope you churn out stellar code that create p
  So without futher ado, 
 
  Claude AI by Anttropic 
+ GROK by xAI
  ChatGPT by OpenAI
  Llama - by meta
  Gemini by Google
